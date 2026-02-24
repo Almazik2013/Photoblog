@@ -1,0 +1,242 @@
+li{
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    font-size: 14px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #7D7D7D;
+    list-style: none;
+}
+
+.container-one{
+    width: 420px;
+    height: 546px;
+}
+
+.container-two{
+    width: 420px;
+    height: 546px;
+}
+
+.container-three{
+    width: 421px;
+    height: 516px;
+}
+
+.container-four{
+    width: 420px;
+    height: 516px;
+}
+
+.container-five{
+    width: 420px;
+    height: 516px;
+}
+
+.container-six{
+    width: 420px;
+    height: 516px;
+}
+
+:root{
+    --text-color: #B4AD9E;
+    --textone-color: #626262;
+    --font-text: "Ubuntu", sans-serif;
+}
+
+.container-one-text{
+    font-family: var(--font-text);
+    font-weight: 300;
+    font-size: 14px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: var(--text-color);
+}
+
+.container-two-text{
+    font-family: var(--font-text);
+    font-weight: 300;
+    font-size: 14px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: var(--text-color);
+}
+
+.container-three-text{
+    font-family: var(--font-text);
+    font-weight: 300;
+    font-size: 14px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: var(--text-color);
+}
+
+.container-four-text{
+    font-family: var(--font-text);
+    font-weight: 300;
+    font-size: 14px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: var(--text-color);
+}
+
+.container-five-text{
+    font-family: var(--font-text);
+    font-weight: 300;
+    font-size: 14px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: var(--text-color);
+}
+
+.container-six-text{
+    font-family: var(--font-text);
+    font-weight: 300;
+    font-size: 14px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: var(--text-color);
+}
+
+.container-one-title{
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    font-size: 30px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: var(--textone-color);
+}
+
+.container-two-title{
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    font-size: 30px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: var(--textone-color);
+}
+
+.container-three-title{
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    font-size: 30px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: var(--textone-color);
+}
+
+.container-four-title{
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    font-size: 30px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: var(--textone-color);
+}
+
+.container-five-title{
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    font-size: 30px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: var(--textone-color);
+}
+
+.container-six-title{
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    font-size: 30px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: var(--textone-color);
+}
+
+.container-one-text-lorem{
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    font-size: 14px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: var(--textone-color);
+}
+
+.container-two-text-lorem{
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    font-size: 14px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: var(--textone-color);
+}
+
+.container-three-text-lorem{
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    font-size: 14px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: var(--textone-color);
+}
+
+.container-four-text-lorem{
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    font-size: 14px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: var(--textone-color);
+}
+
+.container-five-text-lorem{
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    font-size: 14px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: var(--textone-color);
+}
+
+.container-six-text-lorem{
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    font-size: 14px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: var(--textone-color);
+}
+
+button{
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    font-size: 14px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: var(--textone-color);
+    border: 1px solid;
+    background-color: white;
+    padding-left: 49px;
+    padding-right: 48px;
+    padding-top: 20px;
+    padding-bottom: 21px;
+}
